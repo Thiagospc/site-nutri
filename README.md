@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <b>link: https://site-nutri.netlify.app/</b>
 
+![Screenshot from 2022-11-03 22-56-39](https://user-images.githubusercontent.com/64646796/199868612-9336d2d4-f557-49b5-b10a-3049d7ee8df9.png)
+
+
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
